@@ -36,5 +36,3 @@ Join me as I document my journey with consistent updates and exciting challenges
 Let's do this! 💪 Keep coding, stay curious, and never stop learning! 🎯
 
 ---
-
-Feel free to personalize the dates, links, and project names!
