@@ -44,14 +44,14 @@ Made open source contributions for Hacktoberfest
 Practiced DSA & SQL problems
 
 **Day 5**
-Made my daily contributions on-
-Leetcode 
-Kaggle
-Github
-Kaggle
-Practiced some DSA problems
-Practiced some SQL problems
-Completed one ML project
+-Made my daily contributions on-
+-Leetcode 
+-Kaggle
+-Github
+-Kaggle
+-Practiced some DSA problems
+-Practiced some SQL problems
+-Completed one ML project
 
 ---
 
