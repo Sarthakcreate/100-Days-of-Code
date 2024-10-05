@@ -10,7 +10,48 @@ Join me as I document my journey with consistent updates and exciting challenges
 ---
 
 ## 📅 Daily Log
-**More coming soon!**
+**Day 1**
+Made my daily contributions on-
+Leetcode 
+Kaggle
+Github
+Kaggle
+Registered for Hacktoberfest
+
+**Day 2**
+Made my daily contributions on-
+Leetcode 
+Kaggle
+Github
+Kaggle
+Made open source contributions for Hacktoberfest
+
+**Day 3**
+Made my daily contributions on-
+Leetcode 
+Kaggle
+Github
+Kaggle
+Made open source contributions for Hacktoberfest
+
+**Day 4**
+Made my daily contributions on-
+Leetcode 
+Kaggle
+Github
+Kaggle
+Made open source contributions for Hacktoberfest
+Practiced DSA & SQL problems
+
+**Day 5**
+Made my daily contributions on-
+Leetcode 
+Kaggle
+Github
+Kaggle
+Practiced some DSA problems
+Practiced some SQL problems
+Completed one ML project
 
 ---
 
