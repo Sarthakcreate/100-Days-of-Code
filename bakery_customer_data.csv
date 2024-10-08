@@ -1,0 +1,501 @@
+Bakery_ID,Customer_ID,Age,Gender,Items_Purchased,Amount_Spent,Purchase_Date,Time_of_Purchase,Loyalty_Member,Payment_Method
+Bakery_1,1,22,Female,5,48.75,2024-08-02,Afternoon,Yes,Mobile Payment
+Bakery_1,2,23,Female,4,39.32,2024-09-15,Morning,No,Mobile Payment
+Bakery_1,3,64,Non-binary,16,136.53,2024-08-07,Morning,No,Cash
+Bakery_1,4,32,Female,9,68.82,2024-09-18,Morning,Yes,Cash
+Bakery_1,5,19,Female,16,95.18,2024-05-05,Evening,No,Cash
+Bakery_1,6,41,Female,6,83.62,2024-09-04,Morning,No,Cash
+Bakery_1,7,27,Female,1,14.18,2024-05-10,Evening,No,Cash
+Bakery_1,8,63,Male,13,73.08,2024-06-14,Morning,Yes,Mobile Payment
+Bakery_1,9,41,Male,17,306.39,2024-10-01,Evening,Yes,Cash
+Bakery_1,10,19,Non-binary,16,187.57,2024-04-24,Afternoon,No,Cash
+Bakery_1,11,33,Female,10,180.85,2024-05-30,Afternoon,No,Mobile Payment
+Bakery_1,12,32,Female,19,288.06,2024-08-27,Afternoon,Yes,Cash
+Bakery_1,13,53,Female,3,51.08,2024-07-20,Evening,Yes,Cash
+Bakery_1,14,48,Female,15,104.73,2024-06-25,Afternoon,Yes,Cash
+Bakery_1,15,62,Non-binary,5,51.74,2024-07-23,Morning,Yes,Cash
+Bakery_1,16,57,Male,5,64.37,2024-06-25,Morning,Yes,Card
+Bakery_1,17,36,Non-binary,3,42.09,2024-08-24,Afternoon,Yes,Card
+Bakery_1,18,37,Non-binary,17,132.24,2024-07-15,Evening,No,Cash
+Bakery_1,19,67,Non-binary,17,294.45,2024-06-17,Afternoon,No,Card
+Bakery_1,20,51,Non-binary,1,15.91,2024-09-12,Evening,Yes,Cash
+Bakery_1,21,68,Female,5,52.73,2024-08-12,Evening,No,Mobile Payment
+Bakery_1,22,43,Female,5,75.48,2024-08-27,Evening,Yes,Cash
+Bakery_1,23,29,Non-binary,12,227.87,2024-04-18,Evening,No,Cash
+Bakery_1,24,34,Male,5,54.98,2024-06-20,Morning,No,Cash
+Bakery_1,25,67,Female,11,164.42,2024-05-12,Evening,Yes,Cash
+Bakery_1,26,62,Female,20,243.08,2024-04-18,Evening,No,Card
+Bakery_1,27,40,Male,10,134.87,2024-05-15,Evening,No,Cash
+Bakery_1,28,68,Non-binary,9,83.57,2024-04-21,Evening,Yes,Card
+Bakery_1,29,48,Non-binary,4,34.8,2024-07-12,Evening,No,Mobile Payment
+Bakery_1,30,26,Non-binary,6,62.01,2024-07-19,Morning,No,Cash
+Bakery_1,31,36,Female,18,225.09,2024-05-16,Morning,No,Cash
+Bakery_1,32,38,Female,4,41.79,2024-06-05,Morning,Yes,Cash
+Bakery_1,33,42,Male,3,59.19,2024-10-06,Morning,Yes,Mobile Payment
+Bakery_1,34,33,Male,19,343.36,2024-08-04,Afternoon,No,Mobile Payment
+Bakery_1,35,47,Female,14,254.85,2024-05-10,Evening,No,Card
+Bakery_1,36,58,Non-binary,1,12.08,2024-06-02,Morning,No,Mobile Payment
+Bakery_1,37,44,Non-binary,17,322.37,2024-08-17,Afternoon,No,Cash
+Bakery_1,38,39,Non-binary,14,90.54,2024-06-11,Afternoon,No,Cash
+Bakery_1,39,53,Female,7,60.68,2024-08-02,Morning,No,Card
+Bakery_1,40,20,Female,2,20.17,2024-05-31,Morning,Yes,Card
+Bakery_1,41,55,Female,15,120.95,2024-07-10,Evening,No,Mobile Payment
+Bakery_1,42,55,Female,4,31.99,2024-06-14,Evening,Yes,Cash
+Bakery_1,43,68,Non-binary,8,95.42,2024-06-29,Evening,No,Mobile Payment
+Bakery_1,44,27,Male,2,39.65,2024-05-10,Evening,Yes,Card
+Bakery_1,45,34,Non-binary,16,263.32,2024-04-21,Evening,Yes,Card
+Bakery_1,46,51,Female,15,268.56,2024-06-25,Evening,No,Cash
+Bakery_1,47,40,Male,2,18.19,2024-05-14,Afternoon,Yes,Mobile Payment
+Bakery_1,48,20,Female,18,249.88,2024-08-29,Afternoon,Yes,Cash
+Bakery_1,49,54,Non-binary,17,221.25,2024-07-18,Evening,Yes,Cash
+Bakery_1,50,44,Male,3,44.43,2024-05-11,Afternoon,Yes,Card
+Bakery_1,51,41,Non-binary,12,229.79,2024-06-09,Afternoon,Yes,Cash
+Bakery_1,52,25,Male,17,103.45,2024-06-17,Morning,No,Mobile Payment
+Bakery_1,53,18,Non-binary,1,14.2,2024-06-06,Evening,No,Cash
+Bakery_1,54,44,Female,5,92.48,2024-05-19,Morning,No,Cash
+Bakery_1,55,40,Male,12,217.47,2024-07-10,Evening,Yes,Mobile Payment
+Bakery_1,56,20,Female,13,161.96,2024-05-23,Morning,Yes,Cash
+Bakery_1,57,18,Non-binary,4,48.81,2024-04-27,Afternoon,Yes,Card
+Bakery_1,58,58,Male,8,96.37,2024-07-11,Afternoon,Yes,Mobile Payment
+Bakery_1,59,65,Female,3,33.3,2024-07-12,Evening,Yes,Mobile Payment
+Bakery_1,60,37,Male,17,249.89,2024-04-28,Afternoon,Yes,Cash
+Bakery_1,61,36,Female,8,96.93,2024-06-22,Morning,No,Card
+Bakery_1,62,39,Non-binary,4,46.19,2024-09-28,Evening,Yes,Card
+Bakery_1,63,40,Non-binary,3,18.06,2024-08-26,Evening,No,Card
+Bakery_1,64,46,Female,18,148.22,2024-09-26,Morning,No,Card
+Bakery_1,65,67,Female,10,143.85,2024-05-30,Morning,Yes,Mobile Payment
+Bakery_1,66,63,Female,16,80.41,2024-07-22,Evening,No,Mobile Payment
+Bakery_1,67,67,Non-binary,4,52.76,2024-07-10,Evening,Yes,Card
+Bakery_1,68,57,Male,13,114.5,2024-06-19,Afternoon,No,Card
+Bakery_1,69,46,Non-binary,5,29.23,2024-09-17,Afternoon,No,Card
+Bakery_1,70,60,Non-binary,17,128.28,2024-09-10,Afternoon,Yes,Mobile Payment
+Bakery_1,71,42,Male,13,220.11,2024-08-28,Afternoon,Yes,Mobile Payment
+Bakery_1,72,39,Male,5,64.1,2024-07-26,Morning,Yes,Mobile Payment
+Bakery_1,73,40,Non-binary,6,103.11,2024-06-29,Evening,No,Mobile Payment
+Bakery_1,74,42,Female,13,245.9,2024-10-07,Afternoon,Yes,Card
+Bakery_1,75,19,Female,3,19.3,2024-06-20,Evening,No,Mobile Payment
+Bakery_1,76,56,Female,13,175.49,2024-07-19,Morning,Yes,Mobile Payment
+Bakery_1,77,37,Female,13,226.33,2024-09-08,Afternoon,Yes,Card
+Bakery_1,78,50,Male,19,200.78,2024-08-29,Morning,No,Card
+Bakery_1,79,22,Non-binary,2,11.96,2024-06-23,Morning,No,Mobile Payment
+Bakery_1,80,30,Male,9,85.3,2024-09-13,Afternoon,Yes,Card
+Bakery_1,81,21,Non-binary,7,59.69,2024-08-18,Afternoon,No,Card
+Bakery_1,82,67,Female,8,153.92,2024-09-24,Afternoon,Yes,Card
+Bakery_1,83,47,Male,7,74.3,2024-06-12,Evening,Yes,Mobile Payment
+Bakery_1,84,37,Female,18,112.09,2024-04-22,Evening,Yes,Cash
+Bakery_1,85,21,Female,12,96.25,2024-05-27,Evening,No,Card
+Bakery_1,86,25,Male,10,167.23,2024-05-30,Afternoon,Yes,Mobile Payment
+Bakery_1,87,51,Non-binary,20,109.89,2024-04-17,Afternoon,Yes,Mobile Payment
+Bakery_1,88,41,Male,15,225.73,2024-09-15,Afternoon,No,Mobile Payment
+Bakery_1,89,31,Male,5,27.41,2024-07-23,Evening,No,Cash
+Bakery_1,90,61,Female,18,166.98,2024-06-14,Evening,Yes,Cash
+Bakery_1,91,64,Female,17,111.58,2024-07-13,Morning,No,Mobile Payment
+Bakery_1,92,51,Female,10,51.66,2024-04-18,Morning,Yes,Cash
+Bakery_1,93,43,Female,2,12.47,2024-04-15,Evening,Yes,Cash
+Bakery_1,94,27,Male,3,16.82,2024-05-31,Afternoon,Yes,Card
+Bakery_1,95,57,Female,17,237.57,2024-07-16,Afternoon,No,Mobile Payment
+Bakery_1,96,62,Non-binary,2,35.21,2024-06-16,Morning,Yes,Cash
+Bakery_1,97,30,Male,20,193.2,2024-08-18,Afternoon,Yes,Card
+Bakery_1,98,70,Female,5,48.07,2024-06-11,Afternoon,No,Mobile Payment
+Bakery_1,99,64,Male,10,98.38,2024-07-04,Afternoon,Yes,Card
+Bakery_1,100,32,Female,9,112.46,2024-06-23,Evening,Yes,Cash
+Bakery_2,1,22,Non-binary,8,106.11,2024-06-12,Evening,Yes,Card
+Bakery_2,2,31,Male,3,47.99,2024-05-21,Evening,Yes,Card
+Bakery_2,3,23,Non-binary,9,60.7,2024-06-18,Morning,Yes,Mobile Payment
+Bakery_2,4,30,Non-binary,1,10.35,2024-09-11,Afternoon,No,Mobile Payment
+Bakery_2,5,65,Non-binary,9,167.08,2024-09-24,Morning,No,Mobile Payment
+Bakery_2,6,68,Male,6,119.01,2024-06-22,Evening,Yes,Mobile Payment
+Bakery_2,7,70,Female,12,164.59,2024-07-18,Afternoon,Yes,Card
+Bakery_2,8,51,Female,1,13.72,2024-09-20,Morning,Yes,Card
+Bakery_2,9,26,Male,12,220.11,2024-05-24,Evening,Yes,Cash
+Bakery_2,10,20,Male,19,370.93,2024-06-14,Afternoon,Yes,Card
+Bakery_2,11,51,Female,13,113.12,2024-08-21,Evening,No,Cash
+Bakery_2,12,62,Male,3,43.9,2024-07-08,Afternoon,No,Cash
+Bakery_2,13,25,Male,1,15.85,2024-05-28,Evening,Yes,Cash
+Bakery_2,14,29,Female,17,215.52,2024-06-13,Morning,Yes,Card
+Bakery_2,15,66,Female,12,149.53,2024-09-01,Evening,No,Mobile Payment
+Bakery_2,16,44,Female,5,60.49,2024-06-21,Evening,No,Mobile Payment
+Bakery_2,17,63,Male,10,168.77,2024-08-17,Evening,No,Cash
+Bakery_2,18,56,Female,15,289.04,2024-05-28,Afternoon,Yes,Cash
+Bakery_2,19,47,Male,5,90.01,2024-05-01,Morning,No,Mobile Payment
+Bakery_2,20,36,Female,10,132.04,2024-05-17,Afternoon,No,Cash
+Bakery_2,21,42,Non-binary,19,265.43,2024-07-25,Afternoon,No,Cash
+Bakery_2,22,45,Male,12,111.46,2024-07-15,Morning,Yes,Card
+Bakery_2,23,23,Female,17,298.76,2024-08-05,Morning,No,Mobile Payment
+Bakery_2,24,33,Non-binary,11,114.36,2024-05-29,Morning,No,Cash
+Bakery_2,25,29,Non-binary,12,164.96,2024-09-03,Morning,Yes,Cash
+Bakery_2,26,41,Female,9,87.28,2024-04-10,Afternoon,No,Mobile Payment
+Bakery_2,27,52,Female,20,191.04,2024-05-30,Evening,Yes,Mobile Payment
+Bakery_2,28,58,Male,8,54.9,2024-04-27,Morning,Yes,Mobile Payment
+Bakery_2,29,43,Non-binary,1,9.34,2024-09-23,Afternoon,No,Mobile Payment
+Bakery_2,30,65,Female,2,38.96,2024-04-20,Afternoon,Yes,Cash
+Bakery_2,31,21,Non-binary,9,82.39,2024-07-25,Evening,No,Cash
+Bakery_2,32,27,Female,1,6.5,2024-08-28,Afternoon,Yes,Mobile Payment
+Bakery_2,33,57,Non-binary,12,105.72,2024-08-25,Morning,Yes,Mobile Payment
+Bakery_2,34,43,Non-binary,6,102.66,2024-05-08,Morning,No,Mobile Payment
+Bakery_2,35,36,Non-binary,6,71.95,2024-09-18,Morning,Yes,Mobile Payment
+Bakery_2,36,47,Female,12,80.35,2024-08-23,Morning,No,Card
+Bakery_2,37,46,Male,10,166.19,2024-09-03,Morning,Yes,Cash
+Bakery_2,38,19,Female,1,11.96,2024-07-14,Morning,No,Cash
+Bakery_2,39,24,Female,17,95.01,2024-05-09,Evening,Yes,Mobile Payment
+Bakery_2,40,34,Female,15,229.06,2024-04-26,Afternoon,Yes,Mobile Payment
+Bakery_2,41,54,Female,17,91.32,2024-06-17,Morning,Yes,Cash
+Bakery_2,42,54,Non-binary,8,46.86,2024-08-06,Morning,Yes,Cash
+Bakery_2,43,45,Female,16,305.73,2024-09-26,Evening,No,Cash
+Bakery_2,44,38,Male,9,96.95,2024-06-30,Evening,Yes,Cash
+Bakery_2,45,39,Male,4,32.0,2024-10-05,Evening,Yes,Mobile Payment
+Bakery_2,46,32,Male,10,148.97,2024-08-29,Afternoon,Yes,Cash
+Bakery_2,47,59,Non-binary,2,16.94,2024-04-23,Evening,No,Card
+Bakery_2,48,18,Female,11,135.89,2024-05-25,Afternoon,No,Cash
+Bakery_2,49,22,Non-binary,20,322.3,2024-09-29,Evening,No,Cash
+Bakery_2,50,44,Non-binary,6,41.97,2024-07-19,Evening,Yes,Card
+Bakery_2,51,70,Female,20,367.32,2024-05-01,Morning,No,Card
+Bakery_2,52,64,Male,13,185.49,2024-09-30,Afternoon,Yes,Cash
+Bakery_2,53,69,Male,12,180.49,2024-07-20,Morning,Yes,Cash
+Bakery_2,54,64,Female,3,16.66,2024-05-26,Morning,No,Cash
+Bakery_2,55,48,Female,18,358.04,2024-08-13,Evening,Yes,Card
+Bakery_2,56,36,Male,3,35.96,2024-08-02,Afternoon,No,Cash
+Bakery_2,57,54,Female,14,156.12,2024-09-25,Morning,Yes,Mobile Payment
+Bakery_2,58,54,Non-binary,4,26.1,2024-04-17,Afternoon,Yes,Cash
+Bakery_2,59,54,Male,9,152.24,2024-04-24,Evening,No,Cash
+Bakery_2,60,68,Non-binary,4,36.69,2024-07-11,Morning,Yes,Cash
+Bakery_2,61,66,Non-binary,18,188.35,2024-08-07,Evening,Yes,Cash
+Bakery_2,62,23,Female,20,174.3,2024-04-24,Evening,No,Cash
+Bakery_2,63,34,Female,17,101.79,2024-07-02,Morning,Yes,Card
+Bakery_2,64,54,Female,17,339.55,2024-08-04,Evening,Yes,Mobile Payment
+Bakery_2,65,49,Male,18,282.16,2024-05-05,Evening,No,Cash
+Bakery_2,66,41,Non-binary,6,57.02,2024-05-02,Morning,No,Mobile Payment
+Bakery_2,67,43,Female,17,162.81,2024-04-14,Evening,Yes,Cash
+Bakery_2,68,69,Non-binary,20,392.53,2024-09-19,Morning,No,Mobile Payment
+Bakery_2,69,40,Female,6,87.44,2024-10-07,Evening,Yes,Card
+Bakery_2,70,53,Female,3,24.12,2024-05-24,Morning,No,Mobile Payment
+Bakery_2,71,54,Non-binary,2,15.73,2024-04-19,Evening,No,Mobile Payment
+Bakery_2,72,53,Female,3,39.9,2024-08-21,Morning,Yes,Card
+Bakery_2,73,50,Non-binary,11,182.63,2024-07-05,Evening,Yes,Card
+Bakery_2,74,65,Female,18,175.58,2024-06-03,Evening,Yes,Card
+Bakery_2,75,33,Female,20,208.43,2024-09-01,Evening,No,Cash
+Bakery_2,76,34,Female,7,45.54,2024-04-28,Evening,Yes,Cash
+Bakery_2,77,66,Non-binary,12,197.98,2024-07-04,Afternoon,No,Mobile Payment
+Bakery_2,78,38,Non-binary,4,66.11,2024-07-12,Evening,Yes,Mobile Payment
+Bakery_2,79,52,Non-binary,17,253.84,2024-06-30,Morning,No,Cash
+Bakery_2,80,23,Female,15,91.63,2024-07-04,Evening,No,Cash
+Bakery_2,81,60,Non-binary,11,121.42,2024-08-24,Evening,No,Cash
+Bakery_2,82,68,Male,4,55.2,2024-05-01,Evening,No,Cash
+Bakery_2,83,19,Male,7,52.32,2024-10-07,Morning,No,Cash
+Bakery_2,84,51,Male,18,117.53,2024-06-12,Morning,Yes,Cash
+Bakery_2,85,48,Non-binary,13,156.75,2024-07-13,Afternoon,No,Cash
+Bakery_2,86,65,Male,5,78.85,2024-06-15,Morning,Yes,Card
+Bakery_2,87,61,Male,2,15.89,2024-06-04,Afternoon,Yes,Cash
+Bakery_2,88,18,Non-binary,16,113.46,2024-06-15,Evening,Yes,Cash
+Bakery_2,89,62,Female,6,82.93,2024-05-21,Morning,No,Mobile Payment
+Bakery_2,90,31,Non-binary,8,137.05,2024-04-28,Morning,Yes,Cash
+Bakery_2,91,53,Non-binary,3,43.04,2024-06-10,Afternoon,No,Card
+Bakery_2,92,40,Female,13,98.47,2024-05-31,Morning,Yes,Mobile Payment
+Bakery_2,93,54,Non-binary,3,48.98,2024-06-18,Afternoon,Yes,Mobile Payment
+Bakery_2,94,34,Female,15,206.82,2024-09-26,Morning,Yes,Card
+Bakery_2,95,39,Non-binary,7,110.05,2024-06-22,Morning,No,Cash
+Bakery_2,96,27,Non-binary,16,249.39,2024-07-23,Evening,Yes,Card
+Bakery_2,97,54,Non-binary,17,144.77,2024-06-25,Morning,No,Card
+Bakery_2,98,35,Male,8,148.02,2024-08-20,Morning,No,Cash
+Bakery_2,99,46,Non-binary,2,13.5,2024-04-22,Morning,No,Cash
+Bakery_2,100,25,Male,14,268.65,2024-08-30,Evening,No,Cash
+Bakery_3,1,56,Non-binary,14,122.87,2024-09-23,Evening,No,Card
+Bakery_3,2,31,Non-binary,6,95.21,2024-04-27,Morning,No,Card
+Bakery_3,3,59,Male,20,335.35,2024-07-05,Afternoon,No,Cash
+Bakery_3,4,37,Female,10,116.41,2024-09-19,Morning,No,Mobile Payment
+Bakery_3,5,61,Male,4,34.0,2024-07-06,Morning,No,Card
+Bakery_3,6,66,Female,8,47.91,2024-10-04,Evening,No,Cash
+Bakery_3,7,23,Male,11,94.24,2024-05-25,Morning,Yes,Mobile Payment
+Bakery_3,8,27,Non-binary,18,259.75,2024-05-31,Evening,No,Card
+Bakery_3,9,42,Female,16,232.79,2024-05-27,Afternoon,No,Card
+Bakery_3,10,35,Female,5,74.16,2024-09-27,Evening,Yes,Cash
+Bakery_3,11,33,Male,10,122.92,2024-05-02,Afternoon,No,Card
+Bakery_3,12,45,Female,7,114.01,2024-06-25,Afternoon,No,Card
+Bakery_3,13,69,Male,18,197.15,2024-06-20,Afternoon,Yes,Cash
+Bakery_3,14,26,Female,12,136.82,2024-08-19,Morning,No,Cash
+Bakery_3,15,37,Non-binary,13,233.59,2024-06-07,Evening,No,Mobile Payment
+Bakery_3,16,61,Female,2,10.91,2024-08-07,Evening,Yes,Cash
+Bakery_3,17,63,Female,18,278.71,2024-04-12,Morning,No,Mobile Payment
+Bakery_3,18,22,Female,6,97.87,2024-05-25,Afternoon,Yes,Mobile Payment
+Bakery_3,19,44,Male,20,212.09,2024-06-30,Morning,No,Cash
+Bakery_3,20,69,Male,10,82.54,2024-08-29,Morning,Yes,Card
+Bakery_3,21,57,Male,5,39.88,2024-09-16,Evening,No,Cash
+Bakery_3,22,18,Male,17,274.77,2024-08-14,Morning,No,Cash
+Bakery_3,23,27,Female,5,26.8,2024-08-28,Morning,No,Mobile Payment
+Bakery_3,24,39,Female,2,39.28,2024-07-05,Afternoon,Yes,Card
+Bakery_3,25,59,Female,18,278.19,2024-08-06,Evening,Yes,Cash
+Bakery_3,26,27,Male,3,37.81,2024-09-06,Morning,Yes,Card
+Bakery_3,27,22,Female,14,228.63,2024-10-06,Evening,No,Cash
+Bakery_3,28,63,Non-binary,1,14.43,2024-09-08,Afternoon,No,Cash
+Bakery_3,29,54,Non-binary,13,225.11,2024-06-21,Afternoon,Yes,Cash
+Bakery_3,30,30,Non-binary,6,76.27,2024-06-14,Morning,Yes,Card
+Bakery_3,31,49,Female,18,240.05,2024-07-31,Evening,Yes,Card
+Bakery_3,32,49,Female,18,255.71,2024-06-10,Evening,No,Cash
+Bakery_3,33,44,Non-binary,1,12.33,2024-05-10,Afternoon,No,Card
+Bakery_3,34,53,Non-binary,19,153.84,2024-09-05,Afternoon,No,Mobile Payment
+Bakery_3,35,46,Male,16,291.85,2024-08-31,Evening,No,Card
+Bakery_3,36,27,Female,7,129.29,2024-07-20,Afternoon,Yes,Mobile Payment
+Bakery_3,37,52,Non-binary,6,49.54,2024-05-13,Morning,No,Card
+Bakery_3,38,28,Male,8,81.89,2024-10-01,Evening,No,Card
+Bakery_3,39,50,Non-binary,16,309.03,2024-05-28,Evening,Yes,Cash
+Bakery_3,40,25,Non-binary,18,174.48,2024-08-31,Morning,No,Cash
+Bakery_3,41,66,Male,14,221.93,2024-06-23,Morning,No,Mobile Payment
+Bakery_3,42,25,Non-binary,6,71.4,2024-07-01,Evening,No,Cash
+Bakery_3,43,23,Female,9,127.81,2024-08-25,Evening,No,Cash
+Bakery_3,44,37,Female,16,266.3,2024-04-14,Evening,No,Mobile Payment
+Bakery_3,45,63,Female,14,184.7,2024-06-05,Morning,No,Mobile Payment
+Bakery_3,46,61,Non-binary,18,107.36,2024-10-02,Evening,Yes,Mobile Payment
+Bakery_3,47,30,Non-binary,2,11.37,2024-09-12,Afternoon,No,Mobile Payment
+Bakery_3,48,60,Female,19,130.4,2024-06-30,Afternoon,No,Mobile Payment
+Bakery_3,49,32,Non-binary,4,79.06,2024-08-10,Morning,No,Mobile Payment
+Bakery_3,50,63,Male,12,237.39,2024-08-18,Afternoon,No,Mobile Payment
+Bakery_3,51,55,Male,12,178.27,2024-08-28,Morning,Yes,Cash
+Bakery_3,52,23,Non-binary,18,263.01,2024-08-07,Morning,No,Cash
+Bakery_3,53,31,Non-binary,18,262.25,2024-05-20,Morning,No,Cash
+Bakery_3,54,21,Female,20,281.2,2024-08-22,Morning,Yes,Mobile Payment
+Bakery_3,55,24,Female,10,72.35,2024-09-14,Evening,Yes,Cash
+Bakery_3,56,23,Male,15,179.14,2024-08-15,Evening,Yes,Mobile Payment
+Bakery_3,57,45,Female,10,61.96,2024-08-06,Afternoon,Yes,Cash
+Bakery_3,58,26,Non-binary,4,47.14,2024-05-07,Morning,Yes,Mobile Payment
+Bakery_3,59,67,Non-binary,10,90.15,2024-06-21,Afternoon,No,Mobile Payment
+Bakery_3,60,65,Female,14,211.54,2024-06-27,Evening,No,Cash
+Bakery_3,61,29,Male,13,212.52,2024-07-21,Evening,Yes,Card
+Bakery_3,62,52,Non-binary,3,57.95,2024-08-01,Evening,No,Card
+Bakery_3,63,38,Non-binary,19,210.21,2024-08-29,Evening,No,Card
+Bakery_3,64,60,Non-binary,20,374.12,2024-04-12,Morning,No,Card
+Bakery_3,65,22,Male,10,119.5,2024-07-20,Morning,Yes,Mobile Payment
+Bakery_3,66,56,Male,13,119.49,2024-05-19,Afternoon,Yes,Cash
+Bakery_3,67,55,Male,6,70.86,2024-07-16,Morning,Yes,Cash
+Bakery_3,68,36,Female,19,220.0,2024-09-21,Morning,No,Mobile Payment
+Bakery_3,69,33,Non-binary,7,137.88,2024-08-25,Evening,No,Card
+Bakery_3,70,19,Female,15,297.22,2024-05-14,Morning,Yes,Mobile Payment
+Bakery_3,71,37,Non-binary,17,167.66,2024-04-15,Morning,Yes,Cash
+Bakery_3,72,41,Male,8,105.39,2024-07-29,Evening,Yes,Mobile Payment
+Bakery_3,73,43,Non-binary,5,36.76,2024-05-13,Morning,Yes,Mobile Payment
+Bakery_3,74,55,Non-binary,6,61.36,2024-04-23,Evening,Yes,Card
+Bakery_3,75,24,Male,1,9.04,2024-08-07,Afternoon,No,Card
+Bakery_3,76,19,Male,4,37.24,2024-04-12,Morning,No,Cash
+Bakery_3,77,36,Male,3,59.89,2024-09-07,Afternoon,No,Card
+Bakery_3,78,46,Non-binary,3,56.78,2024-04-21,Morning,No,Card
+Bakery_3,79,31,Non-binary,2,14.38,2024-05-01,Afternoon,No,Card
+Bakery_3,80,35,Male,13,106.33,2024-08-10,Morning,Yes,Card
+Bakery_3,81,41,Male,16,194.92,2024-06-26,Evening,No,Card
+Bakery_3,82,57,Non-binary,5,64.26,2024-08-09,Morning,No,Mobile Payment
+Bakery_3,83,40,Male,11,59.99,2024-05-23,Afternoon,Yes,Cash
+Bakery_3,84,48,Male,7,42.96,2024-07-26,Morning,No,Card
+Bakery_3,85,64,Female,19,259.32,2024-07-15,Evening,Yes,Cash
+Bakery_3,86,37,Female,18,95.31,2024-07-23,Afternoon,No,Card
+Bakery_3,87,35,Male,8,124.74,2024-04-14,Evening,Yes,Card
+Bakery_3,88,21,Non-binary,3,39.26,2024-09-09,Evening,Yes,Mobile Payment
+Bakery_3,89,45,Male,2,37.1,2024-04-17,Morning,No,Cash
+Bakery_3,90,51,Male,3,50.32,2024-07-22,Evening,No,Cash
+Bakery_3,91,27,Female,11,70.71,2024-05-26,Afternoon,Yes,Cash
+Bakery_3,92,44,Male,16,313.09,2024-04-28,Afternoon,No,Mobile Payment
+Bakery_3,93,44,Male,20,209.39,2024-10-04,Afternoon,Yes,Cash
+Bakery_3,94,67,Male,11,106.11,2024-08-04,Morning,Yes,Card
+Bakery_3,95,53,Male,19,377.99,2024-06-13,Morning,Yes,Mobile Payment
+Bakery_3,96,25,Female,11,124.44,2024-07-26,Morning,No,Cash
+Bakery_3,97,38,Non-binary,10,69.97,2024-10-01,Evening,No,Mobile Payment
+Bakery_3,98,46,Female,14,189.23,2024-06-02,Morning,Yes,Cash
+Bakery_3,99,57,Male,1,6.41,2024-08-17,Afternoon,No,Cash
+Bakery_3,100,46,Male,10,76.44,2024-09-09,Evening,No,Mobile Payment
+Bakery_4,1,19,Non-binary,11,178.65,2024-09-25,Afternoon,Yes,Cash
+Bakery_4,2,33,Male,1,10.75,2024-10-06,Evening,Yes,Mobile Payment
+Bakery_4,3,69,Non-binary,6,47.59,2024-05-19,Evening,No,Card
+Bakery_4,4,45,Non-binary,13,81.78,2024-07-31,Morning,Yes,Card
+Bakery_4,5,26,Non-binary,5,58.29,2024-08-02,Morning,No,Cash
+Bakery_4,6,21,Non-binary,12,117.09,2024-08-23,Morning,Yes,Mobile Payment
+Bakery_4,7,19,Male,16,111.28,2024-04-24,Afternoon,No,Mobile Payment
+Bakery_4,8,34,Male,9,71.08,2024-06-29,Evening,Yes,Card
+Bakery_4,9,47,Non-binary,3,49.7,2024-06-14,Evening,Yes,Card
+Bakery_4,10,55,Male,8,76.9,2024-05-23,Afternoon,Yes,Mobile Payment
+Bakery_4,11,35,Male,5,47.86,2024-07-10,Evening,No,Cash
+Bakery_4,12,28,Male,8,57.49,2024-06-17,Afternoon,Yes,Card
+Bakery_4,13,51,Female,3,35.36,2024-06-16,Morning,Yes,Cash
+Bakery_4,14,64,Female,7,37.69,2024-05-23,Morning,Yes,Card
+Bakery_4,15,43,Non-binary,16,223.87,2024-07-19,Morning,Yes,Mobile Payment
+Bakery_4,16,36,Female,2,13.91,2024-07-11,Afternoon,Yes,Cash
+Bakery_4,17,23,Male,20,132.48,2024-07-15,Afternoon,Yes,Card
+Bakery_4,18,26,Non-binary,4,72.06,2024-04-30,Morning,Yes,Cash
+Bakery_4,19,70,Male,10,181.25,2024-06-20,Morning,No,Card
+Bakery_4,20,62,Non-binary,5,56.81,2024-07-21,Evening,Yes,Card
+Bakery_4,21,69,Non-binary,20,157.88,2024-06-06,Evening,Yes,Card
+Bakery_4,22,23,Non-binary,15,261.08,2024-08-07,Evening,No,Cash
+Bakery_4,23,58,Female,2,32.22,2024-05-24,Evening,No,Cash
+Bakery_4,24,27,Male,15,253.68,2024-10-04,Evening,Yes,Mobile Payment
+Bakery_4,25,33,Non-binary,10,54.96,2024-06-06,Morning,Yes,Cash
+Bakery_4,26,63,Male,8,157.65,2024-09-24,Afternoon,No,Mobile Payment
+Bakery_4,27,46,Female,13,148.25,2024-08-05,Evening,No,Cash
+Bakery_4,28,58,Non-binary,18,156.13,2024-08-24,Afternoon,No,Cash
+Bakery_4,29,24,Female,5,74.64,2024-10-02,Evening,No,Mobile Payment
+Bakery_4,30,62,Female,13,177.2,2024-08-21,Evening,Yes,Card
+Bakery_4,31,36,Male,20,371.44,2024-06-15,Morning,Yes,Mobile Payment
+Bakery_4,32,33,Non-binary,5,25.71,2024-07-31,Morning,Yes,Card
+Bakery_4,33,61,Female,17,187.82,2024-04-22,Morning,Yes,Card
+Bakery_4,34,59,Male,4,76.9,2024-09-05,Morning,Yes,Mobile Payment
+Bakery_4,35,18,Non-binary,9,70.19,2024-04-13,Morning,No,Mobile Payment
+Bakery_4,36,40,Non-binary,14,130.16,2024-06-23,Morning,Yes,Mobile Payment
+Bakery_4,37,25,Non-binary,16,222.78,2024-07-15,Evening,No,Cash
+Bakery_4,38,28,Non-binary,3,51.71,2024-06-27,Evening,No,Cash
+Bakery_4,39,42,Non-binary,12,171.26,2024-08-18,Evening,No,Cash
+Bakery_4,40,20,Male,12,199.46,2024-07-24,Morning,Yes,Card
+Bakery_4,41,27,Female,5,51.83,2024-07-16,Afternoon,No,Card
+Bakery_4,42,26,Male,16,267.16,2024-04-14,Evening,No,Mobile Payment
+Bakery_4,43,26,Female,11,66.72,2024-09-19,Evening,Yes,Cash
+Bakery_4,44,35,Female,9,153.71,2024-06-08,Afternoon,No,Mobile Payment
+Bakery_4,45,39,Female,9,71.86,2024-09-15,Evening,No,Cash
+Bakery_4,46,59,Female,6,112.66,2024-05-17,Evening,Yes,Cash
+Bakery_4,47,56,Female,20,321.47,2024-09-25,Afternoon,No,Mobile Payment
+Bakery_4,48,67,Non-binary,2,26.63,2024-05-04,Afternoon,No,Cash
+Bakery_4,49,34,Female,15,152.35,2024-08-11,Afternoon,Yes,Mobile Payment
+Bakery_4,50,63,Female,20,142.0,2024-07-29,Morning,No,Cash
+Bakery_4,51,42,Non-binary,19,368.74,2024-05-29,Morning,Yes,Card
+Bakery_4,52,45,Female,20,245.67,2024-07-03,Evening,Yes,Mobile Payment
+Bakery_4,53,59,Female,2,24.79,2024-08-11,Evening,Yes,Mobile Payment
+Bakery_4,54,24,Female,11,71.09,2024-07-20,Afternoon,Yes,Mobile Payment
+Bakery_4,55,33,Male,5,82.43,2024-06-17,Morning,Yes,Cash
+Bakery_4,56,41,Male,20,340.37,2024-07-30,Morning,Yes,Cash
+Bakery_4,57,51,Non-binary,10,178.47,2024-09-04,Afternoon,Yes,Card
+Bakery_4,58,64,Non-binary,12,230.83,2024-08-13,Afternoon,No,Cash
+Bakery_4,59,40,Female,19,212.42,2024-05-18,Morning,No,Cash
+Bakery_4,60,43,Male,14,241.56,2024-08-24,Afternoon,Yes,Cash
+Bakery_4,61,61,Non-binary,9,117.73,2024-07-09,Evening,Yes,Cash
+Bakery_4,62,49,Non-binary,10,93.83,2024-09-17,Morning,Yes,Card
+Bakery_4,63,41,Male,4,22.45,2024-07-30,Afternoon,Yes,Cash
+Bakery_4,64,54,Non-binary,10,174.25,2024-10-06,Evening,Yes,Mobile Payment
+Bakery_4,65,51,Male,17,177.3,2024-04-14,Afternoon,No,Cash
+Bakery_4,66,62,Non-binary,4,58.39,2024-06-02,Afternoon,No,Card
+Bakery_4,67,66,Female,20,255.25,2024-09-10,Evening,No,Mobile Payment
+Bakery_4,68,68,Male,11,112.69,2024-08-31,Afternoon,Yes,Card
+Bakery_4,69,30,Non-binary,14,213.67,2024-09-19,Morning,No,Mobile Payment
+Bakery_4,70,40,Non-binary,17,256.87,2024-06-07,Morning,Yes,Cash
+Bakery_4,71,23,Male,9,150.07,2024-08-02,Afternoon,Yes,Cash
+Bakery_4,72,47,Non-binary,13,125.72,2024-07-01,Afternoon,Yes,Cash
+Bakery_4,73,19,Female,11,58.48,2024-07-26,Afternoon,No,Mobile Payment
+Bakery_4,74,62,Male,20,306.56,2024-07-12,Evening,No,Cash
+Bakery_4,75,49,Female,7,93.16,2024-04-14,Morning,No,Card
+Bakery_4,76,23,Female,16,106.4,2024-07-08,Morning,Yes,Card
+Bakery_4,77,51,Female,7,79.01,2024-05-02,Morning,Yes,Mobile Payment
+Bakery_4,78,59,Female,2,23.2,2024-06-17,Morning,Yes,Card
+Bakery_4,79,25,Female,16,281.76,2024-04-12,Morning,No,Card
+Bakery_4,80,65,Male,6,55.87,2024-08-30,Afternoon,No,Cash
+Bakery_4,81,43,Male,17,187.71,2024-06-12,Afternoon,No,Card
+Bakery_4,82,23,Female,20,204.96,2024-08-16,Morning,No,Card
+Bakery_4,83,65,Female,14,95.67,2024-06-18,Morning,No,Mobile Payment
+Bakery_4,84,35,Male,12,178.56,2024-05-09,Afternoon,Yes,Mobile Payment
+Bakery_4,85,60,Male,11,127.06,2024-05-21,Evening,Yes,Card
+Bakery_4,86,37,Non-binary,16,179.46,2024-06-10,Morning,Yes,Mobile Payment
+Bakery_4,87,67,Male,6,86.41,2024-09-26,Afternoon,No,Mobile Payment
+Bakery_4,88,30,Non-binary,6,96.66,2024-07-29,Afternoon,Yes,Mobile Payment
+Bakery_4,89,53,Male,6,78.65,2024-06-06,Evening,Yes,Mobile Payment
+Bakery_4,90,52,Non-binary,6,60.17,2024-05-05,Morning,Yes,Cash
+Bakery_4,91,34,Male,6,112.56,2024-07-02,Morning,No,Card
+Bakery_4,92,55,Female,14,174.61,2024-08-31,Afternoon,No,Card
+Bakery_4,93,35,Non-binary,14,89.51,2024-07-22,Afternoon,Yes,Mobile Payment
+Bakery_4,94,49,Female,17,130.63,2024-08-12,Evening,Yes,Mobile Payment
+Bakery_4,95,30,Male,14,216.6,2024-07-21,Evening,Yes,Card
+Bakery_4,96,55,Non-binary,2,34.13,2024-06-13,Morning,Yes,Mobile Payment
+Bakery_4,97,59,Female,8,80.73,2024-04-18,Afternoon,Yes,Cash
+Bakery_4,98,27,Male,14,255.55,2024-05-04,Evening,Yes,Card
+Bakery_4,99,23,Female,16,105.42,2024-10-02,Morning,Yes,Mobile Payment
+Bakery_4,100,59,Male,4,20.92,2024-08-29,Morning,No,Cash
+Bakery_5,1,54,Female,12,133.65,2024-06-30,Morning,Yes,Card
+Bakery_5,2,55,Female,7,80.59,2024-05-30,Morning,No,Card
+Bakery_5,3,46,Female,5,52.49,2024-05-11,Evening,No,Card
+Bakery_5,4,30,Non-binary,16,130.08,2024-05-05,Evening,Yes,Cash
+Bakery_5,5,65,Non-binary,4,42.06,2024-06-26,Morning,No,Mobile Payment
+Bakery_5,6,41,Male,10,158.05,2024-06-29,Afternoon,Yes,Cash
+Bakery_5,7,29,Female,7,95.15,2024-05-01,Morning,No,Cash
+Bakery_5,8,51,Female,15,255.39,2024-09-10,Afternoon,No,Mobile Payment
+Bakery_5,9,22,Female,5,43.72,2024-07-22,Afternoon,No,Mobile Payment
+Bakery_5,10,35,Non-binary,7,134.64,2024-05-01,Afternoon,No,Mobile Payment
+Bakery_5,11,47,Female,17,141.34,2024-09-25,Morning,No,Mobile Payment
+Bakery_5,12,43,Male,17,170.81,2024-07-21,Afternoon,Yes,Mobile Payment
+Bakery_5,13,46,Non-binary,4,58.46,2024-08-01,Afternoon,Yes,Card
+Bakery_5,14,60,Non-binary,8,114.86,2024-10-06,Morning,No,Card
+Bakery_5,15,25,Male,3,34.88,2024-09-17,Morning,Yes,Mobile Payment
+Bakery_5,16,27,Male,6,107.04,2024-09-22,Evening,Yes,Mobile Payment
+Bakery_5,17,39,Male,18,186.0,2024-04-19,Evening,No,Card
+Bakery_5,18,22,Non-binary,13,203.14,2024-09-24,Evening,No,Card
+Bakery_5,19,58,Female,10,108.75,2024-06-02,Evening,No,Card
+Bakery_5,20,19,Non-binary,18,348.81,2024-04-22,Evening,No,Mobile Payment
+Bakery_5,21,23,Non-binary,14,134.74,2024-04-14,Morning,No,Cash
+Bakery_5,22,46,Non-binary,18,306.2,2024-05-22,Afternoon,No,Mobile Payment
+Bakery_5,23,59,Female,2,11.06,2024-06-01,Evening,Yes,Cash
+Bakery_5,24,36,Non-binary,18,220.69,2024-06-27,Evening,No,Mobile Payment
+Bakery_5,25,19,Female,4,27.03,2024-09-29,Morning,Yes,Card
+Bakery_5,26,53,Female,16,287.69,2024-05-16,Afternoon,No,Card
+Bakery_5,27,63,Male,1,18.84,2024-04-29,Afternoon,Yes,Mobile Payment
+Bakery_5,28,28,Female,15,88.83,2024-07-22,Evening,No,Card
+Bakery_5,29,23,Non-binary,6,93.07,2024-08-11,Evening,Yes,Cash
+Bakery_5,30,66,Male,8,59.88,2024-06-26,Evening,No,Cash
+Bakery_5,31,54,Male,10,168.69,2024-09-25,Evening,Yes,Card
+Bakery_5,32,59,Non-binary,6,88.17,2024-08-18,Evening,No,Mobile Payment
+Bakery_5,33,18,Non-binary,1,5.47,2024-05-02,Afternoon,No,Mobile Payment
+Bakery_5,34,54,Female,7,73.65,2024-08-28,Evening,Yes,Cash
+Bakery_5,35,49,Female,4,23.01,2024-07-12,Afternoon,Yes,Mobile Payment
+Bakery_5,36,47,Female,13,221.29,2024-05-05,Evening,Yes,Cash
+Bakery_5,37,70,Female,3,36.36,2024-08-25,Evening,Yes,Card
+Bakery_5,38,29,Male,5,36.75,2024-10-04,Morning,Yes,Cash
+Bakery_5,39,61,Male,20,294.42,2024-09-15,Evening,No,Card
+Bakery_5,40,47,Non-binary,15,97.29,2024-06-23,Evening,Yes,Mobile Payment
+Bakery_5,41,59,Non-binary,6,78.28,2024-06-14,Afternoon,No,Cash
+Bakery_5,42,46,Non-binary,14,70.5,2024-09-29,Morning,Yes,Cash
+Bakery_5,43,29,Non-binary,14,84.32,2024-08-04,Afternoon,No,Card
+Bakery_5,44,62,Male,7,58.44,2024-06-15,Afternoon,Yes,Cash
+Bakery_5,45,42,Non-binary,11,76.77,2024-09-06,Morning,No,Cash
+Bakery_5,46,64,Female,6,107.41,2024-08-18,Afternoon,No,Cash
+Bakery_5,47,46,Female,20,351.27,2024-06-28,Morning,Yes,Mobile Payment
+Bakery_5,48,39,Female,6,112.81,2024-04-28,Afternoon,Yes,Mobile Payment
+Bakery_5,49,28,Male,18,291.34,2024-04-28,Morning,No,Cash
+Bakery_5,50,57,Male,17,88.1,2024-06-05,Afternoon,Yes,Card
+Bakery_5,51,62,Female,16,311.05,2024-07-12,Morning,No,Mobile Payment
+Bakery_5,52,33,Male,17,115.04,2024-08-04,Afternoon,No,Cash
+Bakery_5,53,66,Female,19,204.81,2024-07-27,Evening,Yes,Cash
+Bakery_5,54,54,Non-binary,12,195.17,2024-09-30,Afternoon,Yes,Mobile Payment
+Bakery_5,55,27,Non-binary,10,58.85,2024-07-24,Evening,Yes,Card
+Bakery_5,56,51,Non-binary,9,92.43,2024-09-17,Evening,Yes,Mobile Payment
+Bakery_5,57,69,Non-binary,20,271.26,2024-06-07,Evening,No,Card
+Bakery_5,58,64,Male,9,93.81,2024-08-23,Morning,Yes,Mobile Payment
+Bakery_5,59,26,Female,7,78.89,2024-08-04,Afternoon,Yes,Card
+Bakery_5,60,53,Male,19,212.27,2024-04-29,Evening,No,Cash
+Bakery_5,61,46,Male,15,266.29,2024-07-10,Morning,Yes,Mobile Payment
+Bakery_5,62,22,Non-binary,19,196.39,2024-05-25,Morning,Yes,Card
+Bakery_5,63,31,Non-binary,14,75.82,2024-10-04,Evening,No,Mobile Payment
+Bakery_5,64,62,Female,15,170.38,2024-08-01,Morning,No,Card
+Bakery_5,65,40,Female,15,238.15,2024-09-24,Afternoon,No,Cash
+Bakery_5,66,34,Female,18,271.04,2024-09-01,Morning,No,Cash
+Bakery_5,67,40,Female,1,15.88,2024-05-09,Evening,Yes,Cash
+Bakery_5,68,18,Male,12,118.57,2024-09-12,Evening,Yes,Cash
+Bakery_5,69,54,Non-binary,20,374.98,2024-06-25,Evening,No,Cash
+Bakery_5,70,64,Male,5,34.59,2024-07-13,Evening,No,Card
+Bakery_5,71,58,Male,19,111.41,2024-06-16,Evening,Yes,Mobile Payment
+Bakery_5,72,42,Male,8,156.51,2024-07-24,Afternoon,No,Cash
+Bakery_5,73,66,Male,14,231.76,2024-04-13,Afternoon,Yes,Card
+Bakery_5,74,61,Female,10,173.87,2024-05-18,Morning,No,Cash
+Bakery_5,75,61,Non-binary,16,159.84,2024-05-20,Evening,Yes,Card
+Bakery_5,76,19,Female,12,235.84,2024-05-05,Morning,Yes,Mobile Payment
+Bakery_5,77,26,Female,8,87.1,2024-07-29,Morning,No,Cash
+Bakery_5,78,32,Non-binary,3,56.3,2024-07-05,Evening,Yes,Cash
+Bakery_5,79,68,Non-binary,15,179.42,2024-06-06,Morning,No,Card
+Bakery_5,80,35,Non-binary,16,187.54,2024-09-23,Afternoon,No,Mobile Payment
+Bakery_5,81,52,Female,12,194.86,2024-04-21,Morning,No,Card
+Bakery_5,82,69,Female,8,134.89,2024-09-28,Afternoon,No,Card
+Bakery_5,83,42,Female,7,121.62,2024-05-19,Afternoon,Yes,Card
+Bakery_5,84,48,Non-binary,7,131.69,2024-09-25,Evening,Yes,Cash
+Bakery_5,85,60,Male,10,173.47,2024-06-25,Afternoon,No,Cash
+Bakery_5,86,29,Male,15,166.19,2024-06-12,Evening,No,Mobile Payment
+Bakery_5,87,34,Non-binary,4,71.14,2024-07-02,Evening,Yes,Mobile Payment
+Bakery_5,88,53,Male,2,23.96,2024-04-13,Morning,No,Mobile Payment
+Bakery_5,89,65,Non-binary,6,33.91,2024-08-09,Afternoon,Yes,Mobile Payment
+Bakery_5,90,69,Non-binary,7,132.02,2024-06-19,Afternoon,No,Card
+Bakery_5,91,26,Non-binary,11,123.92,2024-10-03,Afternoon,Yes,Mobile Payment
+Bakery_5,92,57,Female,14,235.56,2024-09-07,Morning,No,Mobile Payment
+Bakery_5,93,30,Female,14,163.21,2024-08-25,Morning,Yes,Cash
+Bakery_5,94,22,Non-binary,10,99.39,2024-07-29,Morning,Yes,Mobile Payment
+Bakery_5,95,49,Non-binary,12,81.57,2024-04-16,Morning,No,Card
+Bakery_5,96,43,Female,18,159.9,2024-07-04,Evening,Yes,Mobile Payment
+Bakery_5,97,46,Female,1,14.1,2024-07-19,Morning,No,Cash
+Bakery_5,98,40,Male,14,165.9,2024-08-22,Evening,Yes,Mobile Payment
+Bakery_5,99,21,Male,1,12.06,2024-09-25,Morning,No,Card
+Bakery_5,100,52,Male,2,33.3,2024-04-26,Evening,No,Cash
