@@ -61,7 +61,7 @@ Join me as I document my journey with consistent updates and exciting challenges
 ---
 
 ## 🏅 Highlights & Achievements
-- **More coming soon!**
+- **MSuccessfully Completed Hacktoberfest 2024 Today**
 
 ---
 
