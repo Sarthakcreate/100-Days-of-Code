@@ -62,9 +62,11 @@ Join me as I document my journey with consistent updates and exciting challenges
 
 ## 🏅 Highlights & Achievements
 - **Successfully Completed Hacktoberfest 2024 Today**
-- **Participated in a contest organized by Starium Innovative Healthcare(attempted all 5 coding questions correctly)**
+- **Participate in a contest organized by Starium Innovative Healthcare(attempted all 5 coding questions correctly)**
 - **Made 91k impressions on LinkedIn**
 - **Current Institute ranking on GFG is 313**
+- **Cleared round 1 of Starium Innovative Healthcare Unstop contest and attempted round 2**
+- **Appeared for Geeks-For-Geeks Job-A-Thon**
 
 ---
 
