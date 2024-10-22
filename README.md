@@ -67,6 +67,7 @@ Join me as I document my journey with consistent updates and exciting challenges
 - **Current Institute ranking on GFG is 313**
 - **Cleared round 1 of Starium Innovative Healthcare Unstop contest and attempted round 2**
 - **Appeared for Geeks-For-Geeks Job-A-Thon**
+- **Reached 300 problem mark on LeetCode**
 
 ---
 
