@@ -51,6 +51,46 @@ Join me as I document my journey with consistent updates and exciting challenges
   - Kaggle  
 - Practiced some DSA problems
 
+**Day 6**  
+- Made my daily contributions on:  
+  - Leetcode  
+  - Kaggle  
+  - Github  
+  - Kaggle  
+- Practiced some DSA problems
+
+**Day 7**  
+- Made my daily contributions on:  
+  - Leetcode  
+  - Kaggle  
+  - Github  
+  - Kaggle  
+- Practiced some DSA problems
+
+**Day 8**  
+- Made my daily contributions on:  
+  - Leetcode  
+  - Kaggle  
+  - Github  
+  - Kaggle  
+- Practiced some DSA problems
+
+**Day 9**  
+- Made my daily contributions on:  
+  - Leetcode  
+  - Kaggle  
+  - Github  
+  - Kaggle  
+- Practiced some DSA problems
+
+**Day 10**  
+- Made my daily contributions on:  
+  - Leetcode  
+  - Kaggle  
+  - Github  
+  - Kaggle  
+- Practiced some DSA problems
+
 ---
 
 ## 📚 My Goals
