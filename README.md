@@ -109,6 +109,7 @@ Join me as I document my journey with consistent updates and exciting challenges
 - **Appeared for Geeks-For-Geeks Job-A-Thon**
 - **Reached 300 problem mark on LeetCode**
 - **Appeared for MaTPO PROGRAMMING IDOL-2024 (National Level - Category 1)**
+- **Accepted as a reviewer for IEEE IATMSI 2025 conference conducted by ABV-IITM Gwalior**
 
 ---
 
