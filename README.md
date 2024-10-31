@@ -112,6 +112,7 @@ Join me as I document my journey with consistent updates and exciting challenges
 - **Accepted as a reviewer for IEEE IATMSI 2025 conference conducted by ABV-IITM Gwalior**
 - **Assigned my first paper for review by the conference chair**
 - **Onto the second last day of october, with streaks a lot of betterment and preparation to best utilise november and december**
+- **Completed monthly streak on leetcode and gfg**
 
 ---
 
