@@ -1,0 +1,123 @@
+//1. String Operation
+
+class Solution {
+public:
+    int getOperations(string s) {
+        unordered_map<char, int> freq;
+        // Count the frequency of each character
+        for (char c : s) {
+            freq[c]++;
+        }
+        
+        int operations = 0;
+        // Calculate the number of operations needed
+        for (auto& entry : freq) {
+            operations += entry.second / 3;
+        }
+        
+        return operations;
+    }
+};
+
+//2. Possible Split
+
+class Solution {
+public:
+    int isPossible(int n, vector<int> &arr) {
+        vector<int> left2(n, 0), left5(n, 0), right2(n, 0), right5(n, 0);
+        
+        for (int i = 0; i < n; ++i) {
+            int num = arr[i];
+            left2[i] = (i > 0 ? left2[i - 1] : 0) + countFactor(num, 2);
+            left5[i] = (i > 0 ? left5[i - 1] : 0) + countFactor(num, 5);
+        }
+        
+        for (int i = n - 1; i >= 0; --i) {
+            int num = arr[i];
+            right2[i] = (i < n - 1 ? right2[i + 1] : 0) + countFactor(num, 2);
+            right5[i] = (i < n - 1 ? right5[i + 1] : 0) + countFactor(num, 5);
+        }
+        
+        for (int i = 0; i < n - 1; ++i) {
+            int leftTrailingZeros = min(left2[i], left5[i]);
+            int rightTrailingZeros = min(right2[i + 1], right5[i + 1]);
+            if (leftTrailingZeros == rightTrailingZeros) {
+                return 1;
+            }
+        }
+        return 0;
+    }
+
+private:
+    int countFactor(int num, int factor) {
+        int count = 0;
+        while (num % factor == 0) {
+            count++;
+            num /= factor;
+        }
+        return count;
+    }
+};
+
+//3. Equal Islands
+
+class Solution {
+public:
+    int find(int x, vector<int>& parent) {
+        if (parent[x] != x) {
+            parent[x] = find(parent[x], parent);
+        }
+        return parent[x];
+    }
+    
+    void unite(int x, int y, vector<int>& parent, vector<int>& size) {
+        int rootX = find(x, parent);
+        int rootY = find(y, parent);
+        
+        if (rootX != rootY) {
+            parent[rootX] = rootY;
+            size[rootY] += size[rootX];
+        }
+    }
+    
+    int isEqual(int n, int q, vector<int> &arr, vector<vector<int>> &queries) {
+        vector<int> parent(n), size(n);
+
+        for (int i = 0; i < n; ++i) {
+            parent[i] = i;
+            size[i] = arr[i];
+        }
+        
+        for (const auto& query : queries) {
+            int u = query[0] - 1;
+            int v = query[1] - 1;
+            unite(u, v, parent, size);
+        }
+        
+        vector<int> distinctImportance;
+        for (int i = 0; i < n; ++i) {
+            if (parent[i] == i) { 
+                distinctImportance.push_back(size[i]);
+            }
+        }
+        
+        int totalImportance = accumulate(distinctImportance.begin(), distinctImportance.end(), 0);
+        
+        if (totalImportance % 2 != 0) return 0;
+        
+        int target = totalImportance / 2;
+        
+        vector<bool> dp(target + 1, false);
+        dp[0] = true;
+        
+        for (int imp : distinctImportance) {
+            for (int j = target; j >= imp; --j) {
+                if (dp[j - imp]) {
+                    dp[j] = true;
+                }
+            }
+        }
+        
+        return dp[target] ? 1 : 0;
+    }
+};
