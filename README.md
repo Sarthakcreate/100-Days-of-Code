@@ -114,6 +114,7 @@ Join me as I document my journey with consistent updates and exciting challenges
 - **Onto the second last day of october, with streaks a lot of betterment and preparation to best utilise november and december**
 - **Completed monthly streak on leetcode and gfg**
 - **Done with reading the maiden research paper I am allotted to review. Onto submitting the review tomorrow**
+- **Submitted My first conference review for IATMSI-2025**
 
 ---
 
